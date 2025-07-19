@@ -1,0 +1,21 @@
+{
+  "title": "Tableau de bord des statistiques de l’IMC pour le Canada (1998–2007) ",
+  "Mean BMI by Year": "IMC moyen par année",
+  "Switch Language": "English",
+  "BMI Distribution in Canada (1998–2007)": "Répartition de l'IMC au Canada (1998–2007)",
+  "Number of persons": "Nombre de personnes",
+  "Total population for the variable body mass index": "Population totale pour la variable indice de masse corporelle",
+  "Underweight, body mass index under 18.50": "Insuffisance pondérale, IMC inférieur à 18,50",
+  "Normal weight, body mass index 18.50 to 24.99": "Poids normal, IMC de 18,50 à 24,99",
+  "Overweight, body mass index 25.00 to 29.99": "Surpoids, IMC de 25,00 à 29,99",
+  "Obese, body mass index 30.00 or higher": "Obésité, IMC de 30,00 ou plus",
+  "Body mass index, not stated": "Indice de masse corporelle, non précisé",
+
+  "chartDescription": {
+    "paragraph1": "Ce tableau de bord présente les tendances de l'indice de masse corporelle (IMC) chez la population canadienne âgée de 18 ans et plus, à l'exclusion des femmes enceintes et des personnes dont la taille est hors des plages typiques. L'IMC est calculé en divisant le poids en kilogrammes par la taille en mètres au carré.",
+    "paragraph2": "Les catégories d'IMC vont de l'insuffisance pondérale à différentes classes d'obésité, chacune associée à différents niveaux de risque pour la santé selon les directives de Santé Canada et de l'OMS. Les données sont standardisées par âge afin de permettre des comparaisons équitables entre les années et les régions.",
+    "paragraph3": "Les statistiques proviennent de plusieurs enquêtes nationales canadiennes sur la santé réalisées entre 1994 et 2007. Il est important de noter que des intervalles de confiance et des mesures de variabilité sont utilisés pour garantir la fiabilité des comparaisons, certaines données étant marquées comme moins précises ou supprimées en cas de variabilité trop élevée.",
+    "source": "Source",
+    "sourceLinkText": "Statistique Canada - Enquête sur la santé dans les collectivités canadiennes"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "BMI Statistics Dashboard for Canada (1998–2007)",
+  "Mean BMI by Year": "Mean BMI by Year",
+  "Switch Language": "Français",
+  "BMI Distribution in Canada (1998–2007)": "BMI Distribution in Canada (1998–2007)",
+  "Number of persons": "Number of persons",
+  "Total population for the variable body mass index": "Total population for the variable body mass index",
+  "Underweight, body mass index under 18.50": "Underweight, body mass index under 18.50",
+  "Normal weight, body mass index 18.50 to 24.99": "Normal weight, body mass index 18.50 to 24.99",
+  "Overweight, body mass index 25.00 to 29.99": "Overweight, body mass index 25.00 to 29.99",
+  "Obese, body mass index 30.00 or higher": "Obese, body mass index 30.00 or higher",
+  "Body mass index, not stated": "Body mass index, not stated",
+
+    "chartDescription": {
+    "paragraph1": "This dashboard presents body mass index (BMI) trends in the Canadian population aged 18 and over, excluding pregnant women and individuals outside typical height ranges. The BMI is calculated by dividing weight in kilograms by height in meters squared.",
+    "paragraph2": "BMI categories range from underweight to different classes of obesity, each associated with varying health risk levels following Health Canada and WHO guidelines. Data is standardized by age to enable fair comparisons across years and regions.",
+    "paragraph3": "The statistics are drawn from multiple Canadian national health surveys conducted between 1994 and 2007. Note that confidence intervals and data variability measures are used to ensure reliability of comparisons, with some data marked as less precise or suppressed when variability is too high.",
+    "source": "Source",
+    "sourceLinkText": "Statistics Canada - Canadian Community Health Survey"
+  }
+
+}
