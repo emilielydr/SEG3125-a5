@@ -77,7 +77,8 @@ export function BMILineChart() {
     plugins: {
       title: {
         display: true,
-        text: t('BMI Trends Line Chart in Canada (1998–2007)')
+        text: t('BMI Trends Line Chart in Canada (1998–2007)'),
+        font: { size: 24 }
       },
       legend: {
         position: 'top'
