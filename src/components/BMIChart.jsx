@@ -58,7 +58,7 @@ export function BMIChart() {
     plugins: {
       title: {
         display: true,
-        text: t('BMI Distribution in Canada (1998–2007)')
+        text: t('BMI Distribution Bar Chart in Canada (1998–2007)')
       },
       legend: {
         position: 'top', // Removed "as const"
